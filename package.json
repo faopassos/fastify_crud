@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "fastify": "^4.25.2",
+    "uuid": "^9.0.1"
+  },
+  "scripts": {
+    "dev": "tsx watch src/app.ts"
+  },
+  "name": "fastfy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.11.15",
+    "@types/uuid": "^9.0.8",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}
